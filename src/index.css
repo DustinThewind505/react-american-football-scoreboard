@@ -19,6 +19,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 1.6rem;
+  background-image: url(https://boston.cbslocal.com/wp-content/uploads/sites/3859903/2013/01/159792113.jpg?w=594);
 }
 
 code {
